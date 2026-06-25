@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/29299780/README.md)
+[README.md](https://github.com/user-attachments/files/29340137/README.md)
 # Lore
 
 **Lore** is a suite of AI-powered tools for prompt engineering, workflow continuity, and verified document pipelines.
@@ -11,7 +11,7 @@
 
 | Tool | Myth | What it does | Status |
 |------|------|-------------|--------|
-| [**Cassandra**](https://github.com/joshkenitzer-ops/cassandra) | Trojan prophetess cursed to be right and unbelieved | Prompt red-teaming: finds failure modes before your users do | v0.1 |
+| [**Cassandra**](https://github.com/joshkenitzer-ops/cassandra) | Trojan prophetess cursed to be right and unbelieved | Prompt red-teaming: finds failure modes before your users do | v0.1 · [Live Demo](https://cassandra-app-theta.vercel.app) |
 | [**Janus**](https://github.com/joshkenitzer-ops/janus) | Roman god of gates and transitions, two-faced | Session context management: structured handoffs for AI workflows | In development |
 | [**Hermes**](https://github.com/joshkenitzer-ops/hermes) | Messenger of the gods, patron of travelers | Tailored document pipeline: resumes, cover letters, application packages | In development |
 | **Cicero** | Roman orator, master of persuasion | Persuasive writing assessment across 7 dimensions | Planned |
